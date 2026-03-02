@@ -82,9 +82,7 @@ rag   blend   fallback
 ```bash
 git clone https://github.com/vbek/SEEKBOT.git
 cd seekbot
-pip install flask python-dotenv openai langchain langchain-community \
-            langchain-text-splitters langgraph pypdf python-docx \
-            beautifulsoup4 requests faiss-cpu sentence-transformers
+pip install flask python-dotenv openai langchain langchain-community langchain-text-splitters langgraph pypdf python-docx beautifulsoup4 requests faiss-cpu sentence-transformers
 ```
 
 ### 2. Configure Environment
