@@ -80,7 +80,7 @@ rag   blend   fallback
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/seekbot.git
+git clone https://github.com/vbek/SEEKBOT.git
 cd seekbot
 pip install flask python-dotenv openai langchain langchain-community \
             langchain-text-splitters langgraph pypdf python-docx \
