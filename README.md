@@ -200,12 +200,11 @@ Cosine similarity scores are normalized. Thresholds:
 
 ---
 
----
 
 ## 📜 License
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-In short: you're free to use, modify, and distribute this software, with or without changes, as long as you include the original copyright notice and license.
+- This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+- In short: you're free to use, modify, and distribute this software, with or without changes, as long as you include the original copyright notice and license.
 ---
 
 ## 🙏 Acknowledgements
